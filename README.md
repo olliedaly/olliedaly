@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olliedaly
-- 👀 I’m interested in statistics, data visualisation, technology in sports performace
+- 👀 I’m interested in statistics, computer vision, technology in sports performance
 
 <!---
 olliedaly/olliedaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
